@@ -20,6 +20,8 @@ var load_cpu = function(time)
     }
 }
 
+sleep(5);
+
 for (var x = 0; x < encoded.length; x++)
 {
     var c = encoded.charAt(x);
